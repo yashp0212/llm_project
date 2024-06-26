@@ -1,0 +1,2 @@
+openai_api_key=""
+google_gemini_api_key="AIzaSyBURWn_d7yf2KhUAC0tbaauNw8pmtnupDI"
