@@ -1,4 +1,2 @@
-streamlit==1.10.0  # Replace with your required version
-google-cloud-aiplatform==1.10.0  # Replace with the correct version
-Pillow==9.0.0  # Example additional package
-pip install -r requirements.txt
+streamlit
+google-cloud-aiplatform
